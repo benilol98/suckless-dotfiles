@@ -1,0 +1,13 @@
+# suckless-dotfiles
+- flexipatch was used!!
+- dwm patches used:
+- vanitygaps
+- systray 
+- attachaside
+- barpadding 
+- centeredwindowname
+- dmenu patches used:
+- case insensitive
+- barpadding 
+- ctrl v to paste
+- luke smith st build used
